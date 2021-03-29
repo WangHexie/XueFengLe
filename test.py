@@ -49,13 +49,11 @@ def get_latest_learning_log(cookies):
 
 def write_to_file(thing):
     with open("./README.md", "w", encoding="utf-8") as f:
-        f.write("""
-        # XueFengLe
+        f.write("""# XueFengLe     
 
-我学疯啦
+我学疯啦    
 
-        """ + """
-
+        """ + thing["title"] +"""     
 
         """ + str(thing))
 
