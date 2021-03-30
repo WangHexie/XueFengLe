@@ -37,11 +37,8 @@ def get_latest_learning_log(cookies):
     full_string = ''
     for i in parseable_data:
         full_string += i.decode("utf-8")
-        print(i)
-    print(full_string)
 
     logs = json.loads(full_string)
-    print(logs)
     print(logs["data"]["list"][0]["learnlist"])
 
     return logs["data"]["list"][0]["learnlist"]
