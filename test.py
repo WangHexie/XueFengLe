@@ -78,7 +78,7 @@ header = {
 
 }
 
-current_lesson = get_current_number() + 35
+current_lesson = get_current_number() + 34
 
 r = requests.post('http://api.lngqt.shechem.cn/webapi/learn/addlearnlog',
                   data=f"lid={current_lesson}&token=",
