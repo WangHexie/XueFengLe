@@ -5,7 +5,9 @@ import requests
 import gzip
 import zlib
 import json
+from datetime import datetime
 
+now = datetime.now()
 
 def decompress_stream(stream):
     o = zlib.decompressobj(16 + zlib.MAX_WBITS)
@@ -52,7 +54,7 @@ def write_to_file(thing):
 
         """ + thing["title"] +"""     
 
-        """ + str(thing))
+        """ + str(thing))+str(now)
 
 
 def get_current_number():
