@@ -54,7 +54,7 @@ def write_to_file(thing):
 
         """ + thing["title"] +"""     
 
-        """ + str(thing))+str(now)
+        """ + str(thing)+str(now))
 
 
 def get_current_number():
