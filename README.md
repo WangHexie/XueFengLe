@@ -2,6 +2,6 @@
 
 我学疯啦    
 
-        第十一季第十二期：伟大的历史转折     
+        第十一季第十三期：中国特色社会主义阔步向前     
 
-        {'id': '57', 'url': 'https://h5.cyol.com/special/daxuexi/a6dg0sx2nv/m.html', 'coverimage': 'http://webcdn.lngqt.shechem.cn/oss/uploadfile/image/20210607/60bdb316a5a0d.jpg', 'title': '第十一季第十二期：伟大的历史转折', 'detail': '', 'text': '', 'display': '1', 'inputtime': '1623044936', 'updatetime': None, 'starttime': '1623044891', 'endtime': '1623600000', 'number': '48', 'status': '1', 'do_inputtime': '2021-06-07 13:48', 'do_starttime': '2021-06-07 13:48', 'do_endtime': '1970-01-01 08:00'}2021-06-09 03:16:15.717751
+        {'id': '58', 'url': 'https://h5.cyol.com/special/daxuexi/az6r1gs0fy/m.html', 'coverimage': 'http://webcdn.lngqt.shechem.cn/oss/uploadfile/image/20210614/60c6cdfe07ccb.jpg', 'title': '第十一季第十三期：中国特色社会主义阔步向前', 'detail': '', 'text': '', 'display': '1', 'inputtime': '1623641621', 'updatetime': None, 'starttime': '1623641514', 'endtime': '1624204800', 'number': '49', 'status': '1', 'do_inputtime': '2021-06-14 11:33', 'do_starttime': '2021-06-14 11:31', 'do_endtime': '1970-01-01 08:00'}2021-06-15 02:46:30.139968
