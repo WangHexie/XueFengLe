@@ -2,6 +2,6 @@
 
 我学疯啦    
 
-        第十一季第十五期：中华民族近代以来最伟大的梦想     
+        青年大学习特辑：学习习近平总书记在庆祝中国共产党成立100周年大会上的重要讲话     
 
-        {'id': '60', 'url': 'https://h5.cyol.com/special/daxuexi/a6kgx2sf4t/m.html', 'coverimage': 'http://webcdn.lngqt.shechem.cn/oss/uploadfile/image/20210628/60d9339e43a7c.jpg', 'title': '第十一季第十五期：中华民族近代以来最伟大的梦想', 'detail': '', 'text': '', 'display': '1', 'inputtime': '1624847494', 'updatetime': None, 'starttime': '1624847443', 'endtime': '1625414400', 'number': '51', 'status': '1', 'do_inputtime': '2021-06-28 10:31', 'do_starttime': '2021-06-28 10:30', 'do_endtime': '1970-01-01 08:00'}2021-06-30 02:37:38.312551
+        {'id': '61', 'url': 'https://h5.cyol.com/special/daxuexi/ac7fx0es1z/m.html', 'coverimage': 'http://webcdn.lngqt.shechem.cn/oss/uploadfile/image/20210705/60e2799e2209d.jfif', 'title': '青年大学习特辑：学习习近平总书记在庆祝中国共产党成立100周年大会上的重要讲话', 'detail': '', 'text': '', 'display': '1', 'inputtime': '1625455085', 'updatetime': None, 'starttime': '1625455023', 'endtime': '1626019200', 'number': '52', 'status': '1', 'do_inputtime': '2021-07-05 11:18', 'do_starttime': '2021-07-05 11:17', 'do_endtime': '1970-01-01 08:00'}2021-07-06 02:33:44.637127
