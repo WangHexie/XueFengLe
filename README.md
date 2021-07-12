@@ -2,6 +2,6 @@
 
 我学疯啦    
 
-        青年大学习特辑：学习习近平总书记在庆祝中国共产党成立100周年大会上的重要讲话     
+        第十一季第十七期：打铁必须自身硬     
 
-        {'id': '61', 'url': 'https://h5.cyol.com/special/daxuexi/ac7fx0es1z/m.html', 'coverimage': 'http://webcdn.lngqt.shechem.cn/oss/uploadfile/image/20210705/60e2799e2209d.jfif', 'title': '青年大学习特辑：学习习近平总书记在庆祝中国共产党成立100周年大会上的重要讲话', 'detail': '', 'text': '', 'display': '1', 'inputtime': '1625455085', 'updatetime': None, 'starttime': '1625455023', 'endtime': '1626019200', 'number': '52', 'status': '1', 'do_inputtime': '2021-07-05 11:18', 'do_starttime': '2021-07-05 11:17', 'do_endtime': '1970-01-01 08:00'}2021-07-07 02:34:05.619157
+        {'id': '62', 'url': 'https://h5.cyol.com/special/daxuexi/a7je0np8ec/m.html', 'coverimage': 'http://webcdn.lngqt.shechem.cn/oss/uploadfile/image/20210712/60eba78142100.jfif', 'title': '第十一季第十七期：打铁必须自身硬', 'detail': '', 'text': '', 'display': '1', 'inputtime': '1626056619', 'updatetime': '1626056637', 'starttime': '1626056580', 'endtime': '1626624000', 'number': '53', 'status': '1', 'do_inputtime': '2021-07-12 10:23', 'do_starttime': '2021-07-12 10:23', 'do_endtime': '1970-01-01 08:00'}2021-07-12 02:33:01.637925
