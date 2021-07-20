@@ -2,6 +2,6 @@
 
 我学疯啦    
 
-        第十一季第十七期：打铁必须自身硬     
+        第十一季第十八期：踏平坎坷成大道，斗罢艰险又出发     
 
-        {'id': '62', 'url': 'https://h5.cyol.com/special/daxuexi/a7je0np8ec/m.html', 'coverimage': 'http://webcdn.lngqt.shechem.cn/oss/uploadfile/image/20210712/60eba78142100.jfif', 'title': '第十一季第十七期：打铁必须自身硬', 'detail': '', 'text': '', 'display': '1', 'inputtime': '1626056619', 'updatetime': '1626056637', 'starttime': '1626056580', 'endtime': '1626624000', 'number': '53', 'status': '1', 'do_inputtime': '2021-07-12 10:23', 'do_starttime': '2021-07-12 10:23', 'do_endtime': '1970-01-01 08:00'}2021-07-14 02:33:12.371315
+        {'id': '63', 'url': 'https://h5.cyol.com/special/daxuexi/aa7cr1vgb4/m.html', 'coverimage': 'http://webcdn.lngqt.shechem.cn/oss/uploadfile/image/20210719/60f4ead420ec5.jfif', 'title': '第十一季第十八期：踏平坎坷成大道，斗罢艰险又出发', 'detail': '', 'text': '', 'display': '1', 'inputtime': '1626663701', 'updatetime': None, 'starttime': '1626663657', 'endtime': '1627228800', 'number': '54', 'status': '1', 'do_inputtime': '2021-07-19 11:01', 'do_starttime': '2021-07-19 11:00', 'do_endtime': '1970-01-01 08:00'}2021-07-20 02:36:25.568047
