@@ -2,6 +2,6 @@
 
 我学疯啦    
 
-        第十一季第十九期：迈向中华民族伟大复兴的关键一步     
+        第十一季第二十期：不负时代，不负韶华，不负党和人民的殷切期望！     
 
-        {'id': '64', 'url': 'https://h5.cyol.com/special/daxuexi/an7rt2e1of/m.html', 'coverimage': 'http://webcdn.lngqt.shechem.cn/oss/uploadfile/image/20210726/60fe1e55b4347.jfif', 'title': '第十一季第十九期：迈向中华民族伟大复兴的关键一步', 'detail': '', 'text': '', 'display': '1', 'inputtime': '1627266673', 'updatetime': None, 'starttime': '1627266579', 'endtime': '1627833600', 'number': '55', 'status': '1', 'do_inputtime': '2021-07-26 10:31', 'do_starttime': '2021-07-26 10:29', 'do_endtime': '1970-01-01 08:00'}2021-07-28 02:35:43.845761
+        {'id': '65', 'url': 'https://h5.cyol.com/special/daxuexi/af7ina30ly/m.html', 'coverimage': 'http://webcdn.lngqt.shechem.cn/oss/uploadfile/image/20210802/61075bee53b5c.jfif', 'title': '第十一季第二十期：不负时代，不负韶华，不负党和人民的殷切期望！', 'detail': '', 'text': '', 'display': '1', 'inputtime': '1627872309', 'updatetime': None, 'starttime': '1627872255', 'endtime': '1628438400', 'number': '56', 'status': '1', 'do_inputtime': '2021-08-02 10:45', 'do_starttime': '2021-08-02 10:44', 'do_endtime': '1970-01-01 08:00'}2021-08-03 02:36:52.940365
